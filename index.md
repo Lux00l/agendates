@@ -5,4 +5,4 @@ in_menu: true
 ---
 # Agendatas 
 
-Une solutions pour la publication de vos événements, la gestion de vos dates et organiser des collections sous forme d'**Agendatas**   ! 
+Une solutions pour la publication de vos événements, la gestion de vos dates et l'organisation de collections agendates sous forme d'**Agendatas**   ! 
