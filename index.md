@@ -1,5 +1,5 @@
 ---
-title: "Comment"
+title: "Comment :"
 order: 0
 in_menu: true
 ---
